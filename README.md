@@ -1,6 +1,6 @@
 # list_audio_files
 How to write a audio file (mp3, flac) collection in a export file, in python.<br>
-Let's export the audio files list having tags (in a base path) in a export file...
+Let's export the audio files list having tags in a export file...
 
 The structure of folders and files is loaded in a CollectionNode<br>
 a CollectionNode is a kind of tree using bigtree<br>
