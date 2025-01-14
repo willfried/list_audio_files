@@ -14,6 +14,6 @@ TinyTag is a audio file tag python library, see https://github.com/tinytag/tinyt
 
 14/01/2025 : the collection is written in a col file following the MAC standards<br>
 MAC Mpeg Audio Collection is a audio file collection manager, see https://mac.sourceforge.net/<br>
-It means you can use the col file generated with this project with MAC
-to display the collection as a tree in the MAC software
+It means you can use the col file generated with this project with MAC<br>
+to display the collection as a tree in the MAC software<br>
 14/01/2025 : Only mp3 and flac are managed
